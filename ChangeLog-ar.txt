@@ -1,1 +1,1 @@
-{'ver1':'14', 'ver2':'0', 'ver3':'14', 'ver4':'1', 'url':'http://iswa.iswamods.com/'}
+{'ver1':'1', 'ver2':'0', 'ver3':'1', 'ver4':'20', 'url':'http://iswa.iswamods.com/'}
