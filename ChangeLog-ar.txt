@@ -1,1 +1,9 @@
-{'ver1':'1', 'ver2':'0', 'ver3':'1', 'ver4':'20', 'url':'http://iswa.iswamods.com/'}
+{"version_code":451209,"content":"
+<p>تحديث 6.65</p>
+
+<li>تجربة</li>
+
+<li>Test</li>
+
+","url":"https://esmaeel.deviswa.com/2019/01/iswhatsapp-business-plus-v110-v110.html"
+}
