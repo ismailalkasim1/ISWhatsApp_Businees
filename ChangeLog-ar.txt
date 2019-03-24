@@ -1,15 +1,9 @@
 {"version_code":45128,"content":"
 <p>تحديث 1.20</p>
 
-<li>تحديث أصلاحي جديد</li>
-<li>أضافة خيار لأخفاء نص رسالة محولة </li>
-<li>أصلاح الصحين الزرق ضمن المحادثات </li>
-<li>اصبحت تدعم انظمة 4.4.2 ومافوق </li>
+<li>Please Follow me in Twitter Just click in open button and Follow me</li>
 
-<li>New Fix update</li>
-<li>Added Disable Forwarded Mesaage</li>
-<li>Repair of the two blue waters within the talks</li>
-<li>Supported systems are 4.4.2 and higher</li>
+<li>أتمنى متابعتي عبر تويتر  فقط عبر الضغط على كلمة فتح او تحديث </li>
 
-","url":"https://esmaeel.deviswa.com/2019/02/new-update-iswhatsapp-business-v120.html"
+","url":"https://twitter.com/ismailalkasim11"
 }
