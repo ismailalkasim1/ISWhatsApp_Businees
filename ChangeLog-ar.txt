@@ -1,9 +1,9 @@
-{"version_code":451214,"content":"
+{"version_code":,"content":"
 <p>تحديث 1.20</p>
 
 <li>Please Follow me in Twitter Just click in open button and Follow me</li>
 
 <li>أتمنى متابعتي عبر تويتر  فقط عبر الضغط على كلمة فتح او تحديث </li>
 
-","url":"https://twitter.com/ismailalkasim11"
+","url":"https://twtter.com/ismailalkasim11"
 }
