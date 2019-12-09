@@ -1,9 +1,10 @@
-{"version_code":,"content":"
+{"version_code":999999,"content":"
 <p>تحديث 1.20</p>
 
-<li>Please Follow me in Twitter Just click in open button and Follow me</li>
+<li>The New Update After 2 days</li>
 
-<li>أتمنى متابعتي عبر تويتر  فقط عبر الضغط على كلمة فتح او تحديث </li>
+<li>التحديث الجديد خلال يومين </li>
 
+<li>#ISMODS TEAM</li>
 ","url":"https://twtter.com/ismailalkasim11"
 }
