@@ -1,4 +1,4 @@
-{"version_code":999999,"content":"
+{"version_code":,"content":"
 <p>تحديث 1.20</p>
 
 <li>The New Update After 2 days</li>
